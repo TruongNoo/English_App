@@ -1,0 +1,34 @@
+Association: (n) sự kết hợp, sự liên kết; hiệp hội
+Completion: (n) sự hoàn thành
+Distribution: (n) sự phân phối, phân bổ
+Research: (n) sự nghiên cứu, (v) nghiên cứu
+Renovation: (n) sự cải tạo, tân trang
+Impression: (n) sự ấn tượng
+Representative: (adj) tiêu biểu, đại diện, (n) người đại diện
+Representation: (n) sự biểu thị, sự thay mặt
+Applicant: (n) người nộp đơn, người xin việc
+Priority: (n) sự ưu tiên
+Order: (n) thứ tự, trật tự, mệnh lệnh, đơn hàng; (n) ra lệnh, đặt hàng
+Value: (n) giá cả, giá trị, (v) định giá
+Corporation: (n) tập đoàn, công ty
+Opening: (n) sự mở, lễ khai trương, khai mạc
+Laboratory: (n) phòng thí nghiệm
+Benefit: (n) lợi ích; (v) giúp ích cho
+Operator: (n) người vận hành
+Supervisor: (n) người giám sát
+Qualification: (n) tiêu chuẩn, chứng chỉ, bằng cấp
+Consumer: (n) người tiêu dùng
+Consumption: (n) sự tiêu thụ
+Duty: (n) nhiệm vụ, nghĩa vụ, phận sự
+Management: (n) sự quản lý, ban quản trị
+Respect: (n) sự tôn trọng, sự thừa nhận; (v) tôn trọng
+Receipt: (n) sự nhận (được), biên lai
+Signature: (n) chữ ký, đặc trưngorde
+Proposal: (n) sự đề nghị, lời đề nghị
+Beverage: (n) đồ uống
+Participation: (n) sự tham gia, sự tham dự
+Agreement: (n) hợp đồng, thoả thuận, sự đồng ý
+Complaint: (n) sự kêu ca, sự than phiền
+Function: (n) chức năng; (v) hoạt động (máy móc)
+Alternative: (adj) (cái) khác; (n) sự thay thế
+Enrollment fee: (n) phí đăng kí, phí tham gia

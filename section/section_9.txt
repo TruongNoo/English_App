@@ -1,0 +1,48 @@
+be arranged: Được sắp xếp
+be attached to: Được gán vào
+be being loaded: Đang được tải lên
+be being unloaded: Đang được dỡ
+be hanging: Được treo
+be harvested: Được thu hoạch
+be lined up in rows: Được xếp thành hàng
+be on display: Được trưng bày(1)
+be displayed: Được trưng bày(2)
+be packed: Được đóng gói
+be placed: Được đặt(1)
+be positioned: Được đặt(2)
+be propped against: Chống lại
+be scattered: Bị phân tán
+be secured to: Được đảm bảo để
+be fastened to: Được đóng chặt để
+be stacked up: Bị xếp chồng lên nhau
+be piled up: Được chất đống
+be stocked with: Được thả rơi
+be filled with: Được làm đầy bởi
+be suspended: Bị đình chỉ
+be tied to: Bị ràng buộc với
+be unoccupied: Không có người ở
+be emptied: Được làm trống
+be illuminated by: Được chiếu sáng bởi
+be reflected: Được phản ánh
+be under construction: Đang được xây dựng
+be crowded with: Được đầy bởi
+be located: Được định vị
+be docked: bị cắt giảm
+be stationed: Đóng quân
+be covered with: Được bao phủ bởi
+be set: Bao quanh
+be laid down: Được đặt xuống
+above the bridge: Phía trên cầu
+across the water: Sang sông
+against the wall: Dựa vào tường
+along the lake: Dọc theo hồ
+behind the vehicle: Phía sau xe
+between the trees: Giữa các cây
+both sides of: Cả 2 mặt của
+from a ceiling: Từ trần nhà
+near the river: Gần con sông
+next to the mirror: Gần cái gương
+on the platform: Trên nền tảng
+toward the stream: Về phía suối
+in the corner of the room: Trong 1 góc phòng
+under a couter: Dưới quầy hàng

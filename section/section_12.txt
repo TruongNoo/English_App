@@ -1,0 +1,33 @@
+Promotion: Sự thăng chức, Sự Quảng bá
+Summary: Bản tóm tắt
+Appreciation: sự cảm kích, biết ơn, đánh giá cao
+Acceptance: sự chấp thuận
+Arrival: Sự đến
+Mention: Sự đề cập đến
+Meet the requirement: Đáp ứng các yêu cầu
+Register: Đăng ký
+Include: Bao gồm
+Propose: Đề nghị, đề xuất
+Acquire: Đạt được, thu được
+Confirm: Xác nhận
+Promote: Thăng chức, Thúc đẩy
+Harvest: Việc thu hoạch
+Appointment: Sự hẹn gặp
+Announce: Thông báo
+Support: Hỗ trợ
+Project: Dự án
+Conference: Hội nghị
+Staff: Nhân viên
+Request: Sự yêu cầu, yêu cầu
+Expert: Chuyên gia
+Dock: Bến cảng, cập bến
+Warehouse: Nhà kho
+Label: Nhãn hiệu
+Attachment: Sự gắn kèm
+Document: Tài liệu
+Function: Chức năng, hoạt động
+Seminar: Cuộc thảo luận chuyên đề
+Expense: Chi phí
+Customer: Khách hàng 
+Approval: Sự tán thành
+Groceries: Hàng tạp hóa

@@ -1,0 +1,30 @@
+Depart: Khởi hành
+Contain: Chứa, kiềm chế, chặn lại
+Announce: Thông báo
+Coordinate: (v) Kết hợp,(n) tọa độ
+By the time: Vào lúc, thời điểm mà
+Résumé: Sơ yếu lý lịch
+Repair: Sửa chữa
+Confirm: Xác nhận, chứng thực
+Decide: Quyết định
+Offer: Đề nghị, cho
+Cover: Che phủ, bao hàm, bảo vệ
+Introduce: Giới thiệu
+Review: Xem xét, duyệt, đánh giá
+Detemine: Xác định, quyết định
+Retire: Nghỉ hưu
+Manage: Quản lý, xoay xở làm gì đó
+Perform: Làm, thực hiện, biểu diễn, thể hiện
+Conclude: Kết luận
+Hold: cầm, nắm, giữ, tổ chức
+Solve: Giải quyết
+Adjust: Điều chỉnh
+Expect: Mong đợi, yêu cầu, đòi hỏi
+Transfer: Dời, chuyển
+Remain: Còn lại, ở lại, vẫn
+Conduct: Chỉ đạo, thực hiện, (n) hành vi
+Discontinue: Ngừng, đình chỉ
+damage: (n) thiệt hại, (v) làm tổn hại
+Submit: nộp
+Supply: (v) cung cấp, (n) sự cung cấp
+Deduct: Khấu trừ đi, giảm đi

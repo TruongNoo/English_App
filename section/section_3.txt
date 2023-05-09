@@ -1,0 +1,55 @@
+brand new: Mới tinh
+inventory, warehouse: Nhà kho
+damage item: Sản phẩm bị hư hỏng
+refund: Tiền trả lại, hoàn lại
+shipment: Sự vận chuyển, lô hàng
+flyer: Tờ rơi
+deliver: Giao hàng
+receipt: Hóa đơn
+defective: Bị lỗi
+release: Phát hành
+gift certificate: Phiếu quà tặng
+out of stock: Hết hàng
+sold out: Bán hết
+in stock: Có sẵn, còn hàng
+set up a display: Sắp xếp cho việc trưng bày
+get a full refund: nhận hoàn tiền đầy đủ
+exchange A for B: Đổi A lấy B
+to charge extra: Tính thêm phí
+get cash back: Hoàn trả tiền mặt
+reponse: Sự trả lời, câu trả lời
+inquiry: Cuộc điều tra, sự điều tra
+reschedule: Thay đổi lịch trình
+confirm: Xác nhận
+put a on hold: Trì hoãn
+connect A to B: Kết nối A với B
+get off the phone: Cúp máy
+make a phone call: Gọi điện thoại
+leave: bỏ đi, rời đi
+vacation: Kỳ nghỉ
+sightseeing: Tham quan
+destination: Điểm đến
+accommodation: Chỗ ở
+single room: Phòng đơn
+itinerary: Lịch trình
+landmark: Mốc, cột mốc, bước ngoặt
+jet lag: Sự mệt mỏi sau chuyến bay
+go on a trip: Đi du lịch
+make a reservation: Đặt chỗ trước
+travel agency, travel agent: Đại lý du lịch
+to take a guided tour: Tham gia chuyến tham quan có hướng dẫn
+departure: Sự khởi hành
+timetable, schedule, calendar: thời khóa biểu
+flight: Chuyến bay
+express train: Tàu cao tốc
+one-way trip: Chuyến đi một chiều
+round trip: Chuyến đi khứ hồi
+aisle seat: chỗ ngồi cạnh lối đi
+window seat: ghế gần cửa sổ
+room: phòng, chỗ, không gian
+tow: kéo đi
+heavy traffic: giao thông đông đúc
+fare: tiền xe, vé 
+give direction: chỉ đường
+break down: hư hỏng, hết hoạt động
+be stuck in traffic: bị tắc đường

@@ -1,0 +1,30 @@
+invite: Mời
+Sponsor: Cha mẹ đỡ đầu
+Participate: Tham gia
+Charge: Sự gánh vác, nhiệm vụ, bổn phận
+Accompany: Đi cùng với ai như 1 người bạn
+prohibit: Cấm, ngăn cản
+Interrupt: Phá vỡ sự liên tục của cái gì đó 1 cách tạm thời
+Notify: Thông báo
+Maintain: Duy trì
+Recommend: Đề nghị, khuyên bảo
+Praise: Sự tán dương, sự ca ngợi
+Positive: Tích cực, Lạc quan
+Receive: Nhận, lĩnh , thu
+Celebrate: Đánh dấu, kỷ niệm, làm lễ kỷ niệm
+Assign: Chỉ định
+Manufacture: Sự chế tạo, sự sản xuất
+Candidate: Ứng viên
+Request: Yêu cầu, đề nghị
+Permit: Giấy phép
+Refund: Hoàn trả
+In order to V: Để làm gì
+Look forward to Ving: Mong chờ làm gì
+Would like sbd to do sth: Muốn ai làm gì
+Make effort to V: Cố gắng làm gì
+Quater: Một phần tư
+Due to: Bởi vì
+Fund-raising: gây quỹ
+Patron: Người đỡ đầu
+Analyst: Người phân tích
+Annual: Xảy ra hàng năm, tính cho cả năm

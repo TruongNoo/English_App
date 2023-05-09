@@ -1,0 +1,48 @@
+Headquaters, head office, main office: Trụ sở chính
+branch office: Văn phòng chi nhánh
+paperwork: Công việc giấy tờ
+deadline: Hạn chót
+paycheck: Phiếu lương, tiền lương
+extension: Sự mở rộng
+return one's call: Gọi điện lại cho ai đó
+security badge: Phù hiệu an ninh
+bulletin board: Bảng thông báo
+transfer: Chuyển
+identification card: Chứng minh nhân dân
+promote sale: Thúc đẩy bán hàng
+sign a contract: Ký hợp đồng
+submit a proposal: Nộp bản đề xuất
+medical leave: nghỉ ốm
+maternity leave: nghỉ thai sản
+access card: Thẻ truy cập
+flexible working hours: Thời gian làm việc linh hoạt
+take a day off: nghỉ 1 ngày
+get out of work: nghỉ việc
+call in sick: Gọi điện báo ốm
+cover the shift: Làm thay ca
+work overtime: Làm thêm giờ
+work late: Làm việc muộn
+presentation: Bài thuyết trình
+meeting room: Phòng họp
+conference call: Cuộc gọi hội nghị
+videoconferencing: Hội nghị trực tuyến
+agenda: Lịch trình cuộc họp
+hand out: Phân phát
+chart: Biểu đồ
+annual budget report: Báo cáo ngân sách hàng năm
+market survey: Khảo sát thị trường
+available: có sẵn, sẵn sàng để dùng
+scheduling conflict: xung đột lịch trình
+meet a deadline: Hoàn thành đúng hạn
+postpone, put off, delay: Trì hoãn
+to reach an agreement: Đạt được 1 thỏa thuận
+ahead of schedule: trước thời hạn
+behind schedule: Chậm tiến độ
+come up with: Nghĩ ra
+Computer Components: Linh kiện máy tính
+installation: Sự lắp đặt
+malfunction: Sự trục trặc
+run out of: hết, cạn kiệt
+place an order: đặt hàng
+out of order: Hư hỏng
+supplier, vendor: Nhà cung cấp
